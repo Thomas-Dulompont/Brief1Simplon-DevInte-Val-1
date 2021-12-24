@@ -33,13 +33,11 @@ En option, il est possible de faire une version tablette.
 - HTML5 seulement : PAS DE CSS
 - Passage au validateur [ W3C Validator ](https://validator.w3.org/) sans erreurs.
 - Wireframe livré en en version responsive (Mobile et Desktop au moins).
-- Utilisation d'un "boiler plate" (cf lien dans les ressources ci-après)
 - HTML5 sémantique obligatoire.
 - Un fichier README.md à la racine de votre dépôt afin de présenter votre projet. (Écrit en markdown)
 
 ## Ressources
 
-- [HTML5 Boilerplate](https://html5boilerplate.com/)
 - [W3C Validator](https://validator.w3.org/)
 - [Emmet](https://emmet.io/)
 - [HTML Sémantique](https://developer.mozilla.org/fr/docs/Glossary/Semantics)
